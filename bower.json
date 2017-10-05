@@ -1,5 +1,5 @@
 {
-  "name": "aws.gateway",
+  "name": "awsgateway",
   "version": "1.0.0",
   "homepage": "https://github.com/agustinplaza/aws.git",
   "authors": [
