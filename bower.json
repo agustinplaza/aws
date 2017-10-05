@@ -1,12 +1,12 @@
 {
-  "name": "awsgateway",
+  "name": "aws.gateway",
   "version": "1.0.0",
   "homepage": "https://github.com/agustinplaza/aws.git",
   "authors": [
     "agustinplaza <apa@googling.barcelona>"
   ],
   "description": "AWS gateway library",
-  "main": "**/*.js",
+  "main": "aws-gateway.js",
   "ignore":"",
   "keywords": [
     "aws"
