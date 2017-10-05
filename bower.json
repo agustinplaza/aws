@@ -6,7 +6,7 @@
     "agustinplaza <apa@googling.barcelona>"
   ],
   "description": "AWS gateway library",
-  "main": ["url-template.js","simpleHttpClient.js","utils.js","sigV4Client.js","apiGatewayClient.js"],
+  "main": "**/*.js",
   "ignore":"",
   "keywords": [
     "aws"
